@@ -53,7 +53,7 @@ Dependencies
 - GLM (OpenGL mathematics)
 Build Instructions
 # Clone repository
-git clone https://github.com/yourusername/2d_renderer.git
+git clone https://github.com/xiaohei-5753/2d_renderer.git
 cd 2d_renderer
 # Create build directory
 mkdir build && cd build
@@ -166,7 +166,7 @@ GPU: 纹理数据 → 计算着色器 → 显示着色器 → 屏幕
 - GLM（OpenGL数学库）
 构建指令
 # 克隆仓库
-git clone https://github.com/yourusername/2d_renderer.git
+git clone https://github.com/xiaohei-5753/2d_renderer.git
 cd 2d_renderer
 # 创建构建目录
 mkdir build && cd build
@@ -255,7 +255,7 @@ git init
 git add .
 git commit -m "Initial commit: GPU-accelerated 2D pixel renderer with OpenGL compute shaders"
 git branch -M main
-git remote add origin https://github.com/yourusername/2d_renderer.git
+git remote add origin https://github.com/xiaohei-5753/2d_renderer.git
 git push -u origin main
 外部依赖项说明
 项目需要以下外部库（通过CMake自动下载）：
